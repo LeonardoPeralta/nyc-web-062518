@@ -4,3 +4,4 @@
 
 #### Module 1
 1. [Hashketball Review](https://youtu.be/_v6x8tWGcws) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/01-hashketball-review)
+2. [Hashes and the Internet](https://youtu.be/eux23aSLarU) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/02-hashes-and-the-internet)
