@@ -11,3 +11,4 @@
 6. [Inheritance](https://youtu.be/Cd4eoeNuGAU) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/06-inheritance)
 7. [SQL review](https://youtu.be/RBGmdYuYbgg) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/07-sql-review)
 8. [Intro to ORMS](https://www.youtube.com/watch?v=h545In-U0Q0&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/08-intro-orms)
+9. [Intro to ActiveRecord](https://youtu.be/SK5NAL0icwU) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/09-active-record-intro)
