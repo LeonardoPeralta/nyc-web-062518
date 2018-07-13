@@ -14,3 +14,7 @@
 9. [Intro to ActiveRecord](https://youtu.be/SK5NAL0icwU) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/09-active-record-intro)
 10. [Git WorkShoppe](https://github.com/learn-co-students/nyc-web-062518/tree/master/11-git-workflow)
 11. [Intro to TDD](https://www.youtube.com/watch?v=Yhjx1ie--Qw) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/12-intro-to-tdd)
+
+---
+
+#### Module 2
