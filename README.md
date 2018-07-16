@@ -18,4 +18,4 @@
 ---
 
 #### Module 2
-12. [Intro MVC with Sinatra]() | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/13-sinatra-mvc-intro-people)
+12. [Intro MVC with Sinatra](https://www.youtube.com/watch?v=ashEBVxwbYs) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/13-sinatra-mvc-intro-people)
