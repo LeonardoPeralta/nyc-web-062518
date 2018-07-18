@@ -22,3 +22,4 @@
 13. [Intro MVC with Sinatra](https://www.youtube.com/watch?v=ashEBVxwbYs) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/13-sinatra-mvc-intro-people)
 15. [Rest and Sinatra Forms](https://www.youtube.com/watch?v=hXucgXZhEs4) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/14-sinatra-forms-rest)
 16. Sinatra Forms Review DolphinOrganizr™️ 🐬| [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/15-sinatra-forms-review-dolphinorganizr)
+17. [Sinatra Associations Burgers](https://www.youtube.com/watch?v=EMrHp5d3tTI) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/16-sinatra-active-record-relationships-burgers) 🍔
