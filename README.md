@@ -12,10 +12,12 @@
 7. [SQL review](https://youtu.be/RBGmdYuYbgg) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/07-sql-review)
 8. [Intro to ORMS](https://www.youtube.com/watch?v=h545In-U0Q0&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/08-intro-orms)
 9. [Intro to ActiveRecord](https://youtu.be/SK5NAL0icwU) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/09-active-record-intro)
-10. [Git WorkShoppe](https://github.com/learn-co-students/nyc-web-062518/tree/master/11-git-workflow)
-11. [Intro to TDD](https://www.youtube.com/watch?v=Yhjx1ie--Qw) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/12-intro-to-tdd)
+10. Active Record Associations | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/10-active-record-associations)
+11. [Git WorkShoppe](https://github.com/learn-co-students/nyc-web-062518/tree/master/11-git-workflow)
+12. [Intro to TDD](https://www.youtube.com/watch?v=Yhjx1ie--Qw) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/12-intro-to-tdd)
 
 ---
 
 #### Module 2
-12. [Intro MVC with Sinatra](https://www.youtube.com/watch?v=ashEBVxwbYs) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/13-sinatra-mvc-intro-people)
+13. [Intro MVC with Sinatra](https://www.youtube.com/watch?v=ashEBVxwbYs) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/13-sinatra-mvc-intro-people)
+15. [Rest and Sinatra Forms](https://www.youtube.com/watch?v=hXucgXZhEs4) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/14-sinatra-forms-rest)
