@@ -24,4 +24,6 @@
 16. Sinatra Forms Review DolphinOrganizr™️ 🐬| [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/15-sinatra-forms-review-dolphinorganizr)
 17. [Sinatra Associations Burgers](https://www.youtube.com/watch?v=EMrHp5d3tTI) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/16-sinatra-active-record-relationships-burgers) 🍔
 18. [Sinatra ActiveRecord Associations Review Actor Movies](https://www.youtube.com/watch?v=WtpSJy69Wcc) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/17-activerecord-sinatra-relationships-review-moviestarz) 🍿
-19. [Intro to Rails](https://youtu.be/ZT2FeGiIFVk) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/18-intro-rails-donut-shop)
+19. [Intro to Rails](https://youtu.be/ZT2FeGiIFVk) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/18-intro-rails-donut-shop) 🍩
+
+15. [Rest and Sinatra Forms](https://www.youtube.com/watch?v=hXucgXZhEs4) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/14-sinatra-forms-rest)
