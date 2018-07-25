@@ -27,3 +27,4 @@
 19. [Intro to Rails](https://youtu.be/ZT2FeGiIFVk) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/18-intro-rails-donut-shop) 🍩
 20. Rails Forms & Validations Bagel Shoppe [Part1](https://www.youtube.com/watch?v=HgUvzyCAsiU) [Part2](https://www.youtube.com/watch?v=6v9yH15uYCI) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/19-rails-forms-rest-validations-bagel-shop) ☕️
 21. [Rails Forms and Associations Farmr](https://www.youtube.com/watch?v=a0R84PId4hE) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/20-rails-associations-farmr) 🐮
+22. [Rails Associations Review Pizzeria](https://www.youtube.com/watch?v=mnqn6LAZtoA) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/21-rails-associations-review-pizzas) 🍕
