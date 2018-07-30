@@ -29,3 +29,6 @@
 21. [Rails Forms and Associations Farmr](https://www.youtube.com/watch?v=a0R84PId4hE) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/20-rails-associations-farmr) 🐮
 22. [Rails Associations Review Pizzeria](https://www.youtube.com/watch?v=mnqn6LAZtoA) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/21-rails-associations-review-pizzas) 🍕
 23. [Rails Review WeManage](https://www.youtube.com/watch?v=2rSYY7t1ljE) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/22-rails-review-we-work-tm)™️
+24. [Sessions and Cookies in Rails Nacho Commerce Site](https://www.youtube.com/watch?v=1gkSezbL6WQ) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/23-sessions-cookies-flavortown) 🧀
+
+17. [Sinatra Associations Burgers](https://www.youtube.com/watch?v=EMrHp5d3tTI) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/16-sinatra-active-record-relationships-burgers) 🍔
