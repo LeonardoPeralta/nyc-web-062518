@@ -30,3 +30,4 @@
 22. [Rails Associations Review Pizzeria](https://www.youtube.com/watch?v=mnqn6LAZtoA) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/21-rails-associations-review-pizzas) 🍕
 23. [Rails Review WeManage](https://www.youtube.com/watch?v=2rSYY7t1ljE) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/22-rails-review-we-work-tm)™️
 24. [Sessions and Cookies in Rails Nacho Commerce Site](https://www.youtube.com/watch?v=1gkSezbL6WQ) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/23-sessions-cookies-flavortown) 🧀
+25. Rails Auth [Authentication](https://www.youtube.com/watch?v=6KaCa-LG7WQ) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/24-rails-auth)
