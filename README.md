@@ -36,3 +36,4 @@
 ---
 
 #### Module 3:
+27. [Scope and Closures](https://www.youtube.com/watch?v=fRI7V8AtyeM) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/26-scope-and-closures)☕️
