@@ -37,4 +37,4 @@
 
 #### Module 3:
 27. [Scope and Closures](https://www.youtube.com/watch?v=fRI7V8AtyeM) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/26-scope-and-closures)☕️
-28. [This in JavaScript VIDEO STILL UPLOADING]() | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/27-this-is-javascript) 🤔
+28. [This in JavaScript](https://www.youtube.com/watch?v=4F7jDJiWAUI) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/27-this-is-javascript) 🤔
