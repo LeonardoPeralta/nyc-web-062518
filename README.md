@@ -41,3 +41,4 @@
 29. [Prototype Chain](https://www.youtube.com/watch?v=evKgyZvw5lE&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/28-prototype-chain)⛓
 30. [JS Review](https://www.youtube.com/watch?v=XdLPA-QAIZo) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/29-js-midweek-review) 🤓
 31. [The DOM](https://youtu.be/-S60o1AMGzY) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/30-the-dom)
+32. [Events](https://youtu.be/9itUnrpSzmM) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/31-js-events)
