@@ -43,7 +43,8 @@
 31. [The DOM](https://youtu.be/-S60o1AMGzY) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/30-the-dom)
 32. [Events](https://youtu.be/9itUnrpSzmM) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/31-js-events)
 33. [AJAX](https://www.youtube.com/watch?v=c98Zi5OWlK8&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/32-ajax)
+34. [Code Organization (Video coming soon)]() | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/33-code-organization)
 
 #### Module 4:
-34. [Introduction to React](https://www.youtube.com/watch?v=1pzWcMG_1Xk&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/34-introduction-to-react)
-35. [JSX and Props](https://www.youtube.com/watch?v=-CBSIIMqu4c&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/35-react-jsx-pros-instaflat)
+35. [Introduction to React](https://www.youtube.com/watch?v=1pzWcMG_1Xk&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/34-introduction-to-react)
+36. [JSX and Props](https://www.youtube.com/watch?v=-CBSIIMqu4c&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/35-react-jsx-pros-instaflat)
