@@ -48,3 +48,5 @@
 #### Module 4:
 35. [Introduction to React](https://www.youtube.com/watch?v=1pzWcMG_1Xk&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/34-introduction-to-react)
 36. [JSX and Props](https://www.youtube.com/watch?v=-CBSIIMqu4c&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/35-react-jsx-pros-instaflat)
+37. [React State and Events](https://www.youtube.com/watch?v=P-OMEFdm_6k&feature=youtu.be) | [Code](https://codesandbox.io/s/04m31n72w0)
+38. [React Forms](https://www.youtube.com/watch?v=SGtzi_v-pkI&feature=youtu.be) | [Code](https://codesandbox.io/s/olkxjkly9y)
