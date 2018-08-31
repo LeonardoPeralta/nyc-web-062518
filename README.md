@@ -51,5 +51,5 @@
 37. [React State and Events](https://www.youtube.com/watch?v=P-OMEFdm_6k&feature=youtu.be) | [Code](https://codesandbox.io/s/04m31n72w0)
 38. [React Forms](https://www.youtube.com/watch?v=SGtzi_v-pkI&feature=youtu.be) | [Code](https://codesandbox.io/s/olkxjkly9y)
 39. [Persisting React Events](https://www.youtube.com/watch?v=i6E7kLnLqt0&feature=youtu.be) | [Code](https://codesandbox.io/s/4qpl027zvw)
-40. [Thinking In React] | [Code](https://github.com/laurkim/scoopDoggsIceCreamShoppe)
+40. Thinking In React | [Code](https://github.com/laurkim/scoopDoggsIceCreamShoppe)
 41. [Hogwarts Review](https://youtu.be/tZIXbYus_lU) | [Code](https://github.com/laurkim/hoggyPotter)
