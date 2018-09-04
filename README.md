@@ -53,3 +53,4 @@
 39. [Persisting React Events](https://www.youtube.com/watch?v=i6E7kLnLqt0&feature=youtu.be) | [Code](https://codesandbox.io/s/4qpl027zvw)
 40. Thinking In React | [Code](https://github.com/laurkim/scoopDoggsIceCreamShoppe)
 41. [Hogwarts Review](https://youtu.be/tZIXbYus_lU) | [Code](https://github.com/laurkim/hoggyPotter)
+42. [Sushi Saga](https://youtu.be/6xUFLBqyElE) | [Code](https://github.com/laurkim/SushiSagaPals)
