@@ -54,3 +54,7 @@
 40. Thinking In React | [Code](https://github.com/laurkim/scoopDoggsIceCreamShoppe)
 41. [Hogwarts Review](https://youtu.be/tZIXbYus_lU) | [Code](https://github.com/laurkim/hoggyPotter)
 42. [Sushi Saga](https://youtu.be/6xUFLBqyElE) | [Code](https://github.com/laurkim/SushiSagaPals)
+
+#### Module 5:
+43. [Redux combineReducers](https://youtu.be/PUQGNLdB83I) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/38-combine-reducers-thunk)
+44. [Redux Review](https://youtu.be/djPoh6qGpm4) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/38-combine-reducers-thunk/pet-peeve)
