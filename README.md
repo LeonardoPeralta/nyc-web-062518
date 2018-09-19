@@ -62,3 +62,4 @@
   * [Redux (part 1)](https://youtu.be/9HEsb07kFl4) | [Part 2](https://youtu.be/SIPEho5Xia4) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/43-redux)
   * [DIY Redux](https://youtu.be/XMPL-IaCyHw) | [Code (diy-redux branch)](https://github.com/hysan/birthify-fe/tree/diy-redux)
   * [combineReducers and thunk](https://youtu.be/rn7cY9iGWE0) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/44-combine-reducers-thunk)
+45. [Thunk](https://youtu.be/oGbgIVtw95s) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/38-combine-reducers-thunk)
