@@ -63,3 +63,7 @@
   * [DIY Redux](https://youtu.be/XMPL-IaCyHw) | [Code (diy-redux branch)](https://github.com/hysan/birthify-fe/tree/diy-redux)
   * [combineReducers and thunk](https://youtu.be/rn7cY9iGWE0) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/44-combine-reducers-thunk)
 45. [Thunk](https://youtu.be/oGbgIVtw95s) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/38-combine-reducers-thunk)
+46. [React/Redux Auth](https://www.youtube.com/watch?v=_Akm5OQ4zJY) | [Code](https://github.com/learn-co-students/nyc-web-062518/tree/master/37-jwt-auth-redux-rails) 🔐
+  * [React ENV Variables](https://www.youtube.com/watch?v=T017kcMf99k) | [Documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-custom-environment-variables) CODE IS SAME AS ABOVE
+  * [React/Redux Auth Refactor](https://www.youtube.com/watch?v=wvG8315hmzY) | CODE IS SAME AS ABOVE
+  * [Rails ENV Variables with Figaro](https://www.youtube.com/watch?v=2UdIQDXm7RU) | CODE IS SAME AS ABOVE
